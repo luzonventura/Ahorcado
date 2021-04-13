@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Usuaria/CLionProjects/FinalFP/include/Ahorcado.h
+
+C:/Users/Usuaria/CLionProjects/FinalFP/include/Bolsa.h
+string
+-
+
+C:/Users/Usuaria/CLionProjects/FinalFP/src/Ahorcado.cpp
+iostream
+-
+string
+-
+../include/Ahorcado.h
+C:/Users/Usuaria/CLionProjects/FinalFP/include/Ahorcado.h
+
+C:/Users/Usuaria/CLionProjects/FinalFP/src/Bolsa.cpp
+iostream
+-
+string
+-
+cstdlib
+-
+time.h
+-
+../include/Bolsa.h
+C:/Users/Usuaria/CLionProjects/FinalFP/include/Bolsa.h
+
+C:/Users/Usuaria/CLionProjects/FinalFP/src/main.cpp
+iostream
+-
+../include/Ahorcado.h
+C:/Users/Usuaria/CLionProjects/FinalFP/include/Ahorcado.h
+../include/Bolsa.h
+C:/Users/Usuaria/CLionProjects/FinalFP/include/Bolsa.h
+

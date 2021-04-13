@@ -1,0 +1,3 @@
+C:/Users/Usuaria/CLionProjects/FinalFP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Usuaria/CLionProjects/FinalFP/cmake-build-debug/CMakeFiles/Pfinal.dir
+C:/Users/Usuaria/CLionProjects/FinalFP/cmake-build-debug/CMakeFiles/edit_cache.dir
